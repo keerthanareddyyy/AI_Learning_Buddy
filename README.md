@@ -1,6 +1,6 @@
-# 🤖 ML Mentor: AI Learning Buddy for Machine Learning Fundamentals
+# 🤖 ML Mentor: AI Learning Buddy for Machine Learning
 
-This project is a complete, interactive, and modern AI-powered tutoring application designed to teach Machine Learning Fundamentals to beginners. It has been developed as a Capstone Project for the Infosys Springboard AI EMPOW(H)ER Week 8 Program.
+This project is a complete, interactive, and modern AI-powered tutoring application designed to teach Machine Learning fundamentals to beginners. It has been developed as a Capstone Project for the Infosys Springboard AI EMPOW(H)ER Week 8 Program.
 
 The application is built using **Python** and **Streamlit**, with **Google Gemini API** as the AI engine — as required by the Infosys Springboard Week 8 Capstone. An offline learning mode is available as a fallback for demonstration purposes when an API key is unavailable.
 
